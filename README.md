@@ -12,6 +12,7 @@ The animation drawn can then be recorded/screen-captured for use as a visual.
 ## Usage
 
 - To run the program, open `index.html` in a browser (tested in Chrome, Firefox should work, IE and Edge may run into issues).
+  - You can also open https://sanketh7.github.io/graph-animation/index.html
 
 - Input is provided by uploading a text file (Select **Choose File** to upload a text file)
 
