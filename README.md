@@ -9,11 +9,22 @@ The animation drawn can then be recorded/screen-captured for use as a visual.
 
 
 
+## Technologies Used
+
+| Name       | Description/Purpose                                          |
+| ---------- | ------------------------------------------------------------ |
+| Javascript | A web scripting language. Used to add functionality to the project. |
+| SVG        | An XML-based vector image format. Used to draw precise and sharp graphics. |
+| HTML       | A web markup language. The backbones of the project.         |
+
+
+
 ## Usage
 
 - To run the program, open `index.html` in a browser (tested in Chrome, Firefox should work, IE and Edge may run into issues).
-  - You can also open https://sanketh7.github.io/graph-animation/index.html
-
+  
+- You can also open https://sanketh7.github.io/graph-animation/index.html
+  
 - Input is provided by uploading a text file (Select **Choose File** to upload a text file)
 
 - Formatting for the text file:
